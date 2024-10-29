@@ -46,3 +46,9 @@ while(n>10){
     console.log(n);
     n++;
 }
+
+var pesso = {
+
+    nome: 'Elias'
+
+}
